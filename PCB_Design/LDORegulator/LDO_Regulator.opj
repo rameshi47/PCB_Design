@@ -1,0 +1,97 @@
+(ExpressProject "LDO_Regulator"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[05/18/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\ldo_regulator(lib).olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\ldo_regulator.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (VCC_BAR
+      (LibraryName "F:\ORCAD-ALLEGRO\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "F:\ORCAD-ALLEGRO\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CL05B104KP5NNNC
+      (FullPartName "CL05B104KP5NNNC.Normal")
+      (LibraryName "F:\PCB_DESIGN\LDOREGULATOR\LDO_REGULATOR(LIB).OLB")
+      (DeviceIndex "0"))
+    (RC0402JR-07100KL
+      (FullPartName "RC0402JR-07100KL.Normal")
+      (LibraryName "F:\PCB_DESIGN\LDOREGULATOR\LDO_REGULATOR(LIB).OLB")
+      (DeviceIndex "0"))
+    (TPS22810DBVR
+      (FullPartName "TPS22810DBVR.Normal")
+      (LibraryName
+         "F:\PCB_DESIGN\ALL_LIBRARY\TPS22810DBVR\ORCADCAPTUREOLB\ORCADCAPTUREOLB.OLB")
+      (DeviceIndex "0"))
+    (TPS7A2533DRVR
+      (FullPartName "TPS7A2533DRVR.Normal")
+      (LibraryName
+         "F:\PCB_DESIGN\ALL_LIBRARY\TPS7A2533DRVR\ORCADCAPTUREOLB\ORCADCAPTUREOLB.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "F:\PCB_Design\LDORegulator")
+  (MPSSessionName "babus")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "F:\PCB_Design\LDORegulator\ldo_regulator.dsn")
+      (Path "Design Resources" "F:\PCB_Design\LDORegulator\ldo_regulator.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" "Library" ".\ldo_regulator(lib).olb"))
+    (HierarchyView
+      (Path "SCHEMATIC1"))
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 287 0 627"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1336 24 645")
+        (Scroll "261 1409")
+        (Zoom "184")
+        (Occurrence "/"))
+      (Path "F:\PCB_DESIGN\LDOREGULATOR\LDO_REGULATOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
