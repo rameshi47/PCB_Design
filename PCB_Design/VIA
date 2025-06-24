@@ -1,0 +1,13 @@
+VIA - Vertical interconnect Access Filled with Epoxy (dielectric).
+Used for routing from layer to layer.
+Types of via [mivro, blind, through-hole, buried].
+Methods of via [stitching, fencing].
+Using drill-back to remove the unwanted copper plate or (minimize stub length)to reduce reflections.
+Signal => prioritize minimum stub length to avoid reflection.
+Power and Ground => need to handle high current so consider size and quantity.
+
+****** single 0.3 mm VIA handles ~0.5 A with good thermal relief. **********
+
+****** for high current, use multiple vias in parallel ******
+
+****** Annular Ring = (Pad diameter - Drill Diameter) / 2 *******
