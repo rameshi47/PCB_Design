@@ -1,0 +1,38 @@
+SCHEMATIC [OrCAD CAPTURE]
+=========
+
+[MAY 15 - 20]
+
+1) Capture & Development
+2) DataSheet
+3) Library
+4) Multipart lib or Split Sheet
+5) FootPrints
+5) Connections [Netalias, OFF Page, Hierarchical]
+6) BOM
+7) Netlist
+
+NOTES{" Save all the files in one project, start with library creation, take footprint or design from datasheet and alternate, create a .dsn and place the components, make connections,
+        create a BOM, create a netlist" }
+
+FOOTPRINTS [ALLEGRO]
+==========
+[MAY 21 - JUNE 12]
+
+1) SMD or SMT
+2) PadStack
+3) Package and Package Wizard
+4) Shape pad
+5) BGA
+6) H-Connector or High Speed Board
+7) Through Pin
+
+PLACEMENT [ALLEGRO]
+=========
+[JUNE 13 - JUNE]
+
+1) Import the netlist and all files path location (pad , netlist, psm etc)
+2) Create a board file, outline, package keepin, route keepin
+3) Grouping the components
+4) add cline or route and add vias
+5) Color Dialog [How to apply colour for layers, net, etch, non-etch, etc] and Constrain Manager [How to add the space, line space, line width, vi-line space, etc]
