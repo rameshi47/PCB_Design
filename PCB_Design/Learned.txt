@@ -36,3 +36,7 @@ PLACEMENT [ALLEGRO]
 3) Grouping the components
 4) add cline or route and add vias
 5) Color Dialog [How to apply colour for layers, net, etch, non-etch, etc] and Constrain Manager [How to add the space, line space, line width, vi-line space, etc]
+6) Placing and Routing Interposer Connector.
+7) Stiffener [PCB holder or supporter Design to avoid the placing package and the routing on the layers]
+8) Stiffiner design 3560 Board design
+9) Mini Project [Schematic to Gerber] end to end design.
