@@ -1,0 +1,1158 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Jul-01-2025 at 14:43:17 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PSU';
+ POST_TIME='Jun  2 2025 22:34:03';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'UUN1V471MNQ1MS_35PX470MEFC10X12P5_ 470UF/35V':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS315@ORCADCAPTUREOLB.UUN1V471MNQ1MS.NORMAL(SCH_1)':
+ C_PATH='@psu.schematic1(sch_1):ins315@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins315@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(350,420,370,430)',
+ SECTION='';
+
+PART_NAME
+ C2 'UUN1V471MNQ1MS_104CKH050M_ 104 0.1UF 10V':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS289@ORCADCAPTUREOLB.UUN1V471MNQ1MS.NORMAL(SCH_1)':
+ C_PATH='@psu.schematic1(sch_1):ins289@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins289@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,420,430,430)',
+ SECTION='';
+
+PART_NAME
+ C3 'UUN1V471MNQ1MS_860160372011_ 100UF/16V':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS263@ORCADCAPTUREOLB.UUN1V471MNQ1MS.NORMAL(SCH_1)':
+ C_PATH='@psu.schematic1(sch_1):ins263@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins263@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(610,420,630,430)',
+ SECTION='';
+
+PART_NAME
+ C4 'UUN1V471MNQ1MS_104CKH050M_ 104 0.1UF 10V':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS187@ORCADCAPTUREOLB.UUN1V471MNQ1MS.NORMAL(SCH_1)':
+ C_PATH='@psu.schematic1(sch_1):ins187@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins187@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(650,420,670,430)',
+ SECTION='';
+
+PART_NAME
+ C5 'UUN1V471MNQ1MS_TVAN1155_ 10UF/15V':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS367@ORCADCAPTUREOLB.UUN1V471MNQ1MS.NORMAL(SCH_1)':
+ C_PATH='@psu.schematic1(sch_1):ins367@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins367@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(800,420,820,430)',
+ SECTION='';
+
+PART_NAME
+ C6 'UUN1V471MNQ1MS_104CKH050M_ 104 0.1UF 10V':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS341@ORCADCAPTUREOLB.UUN1V471MNQ1MS.NORMAL(SCH_1)':
+ C_PATH='@psu.schematic1(sch_1):ins341@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins341@orcadcaptureolb.\uun1v471mnq1ms.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,430,870,440)',
+ SECTION='';
+
+PART_NAME
+ D1 'BRIDGE_DF02M_BRIDGE':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS582@PSU_LIB.BRIDGE.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins582@psu_lib.\bridge.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins582@psu_lib.\bridge.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,380)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,380,250,460)',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_AN1102W-TR_LED':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13125@PSU_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13125@psu_lib.\led.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13125@psu_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,670)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,670,1070,710)',
+ SECTION='';
+
+PART_NAME
+ D11 'DIODE_MBRS140_DIODE':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11825@PSU_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11825@psu_lib.\diode.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11825@psu_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,710)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(710,710,730,740)',
+ SECTION='';
+
+PART_NAME
+ D12 'DIODE_MBRS140_DIODE':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12097@PSU_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12097@psu_lib.\diode.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12097@psu_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1420,750)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1420,750,1440,780)',
+ SECTION='';
+
+PART_NAME
+ D13 'LED_AN1102W-TR_LED':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11987@PSU_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11987@psu_lib.\led.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11987@psu_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,900)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(590,900,610,940)',
+ SECTION='';
+
+PART_NAME
+ D14 'LED_AN1102W-TR_LED':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12259@PSU_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12259@psu_lib.\led.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12259@psu_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,940)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1300,940,1320,980)',
+ SECTION='';
+
+PART_NAME
+ D15 'DIODE_MBRS140_DIODE':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12664@PSU_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12664@psu_lib.\diode.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12664@psu_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,1070)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(990,1070,1010,1100)',
+ SECTION='';
+
+PART_NAME
+ D16 'DIODE_MBRS140_DIODE':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12376@PSU_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12376@psu_lib.\diode.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12376@psu_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,1100)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(360,1100,380,1130)',
+ SECTION='';
+
+PART_NAME
+ D17 'LED_AN1102W-TR_LED':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12826@PSU_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12826@psu_lib.\led.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12826@psu_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,1260)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,1260,890,1300)',
+ SECTION='';
+
+PART_NAME
+ D18 'LED_AN1102W-TR_LED':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12538@PSU_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12538@psu_lib.\led.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12538@psu_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,1290)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(240,1290,260,1330)',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_151031VS06000_PON':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS237@PSU_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins237@psu_lib.\led.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins237@psu_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,410)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,410,320,450)',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_MBRS140_DIODE':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS9406@PSU_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins9406@psu_lib.\diode.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins9406@psu_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,120)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(350,120,370,150)',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE_MBRS140_DIODE':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13273@PSU_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13273@psu_lib.\diode.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13273@psu_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1510,150)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1510,150,1530,180)',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_AN1102W-TR_LED':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS9431@PSU_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins9431@psu_lib.\led.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins9431@psu_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,310)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(230,310,250,350)',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE_MBRS140_DIODE':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11564@PSU_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11564@psu_lib.\diode.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11564@psu_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,300)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(710,300,730,330)',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_AN1102W-TR_LED':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13435@PSU_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13435@psu_lib.\led.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13435@psu_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1390,340)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1390,340,1410,380)',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_AN1102W-TR_LED':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11726@PSU_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11726@psu_lib.\led.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11726@psu_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,490)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(590,490,610,530)',
+ SECTION='';
+
+PART_NAME
+ D9 'DIODE_MBRS140_DIODE':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12963@PSU_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12963@psu_lib.\diode.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12963@psu_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,480)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1170,480,1190,510)',
+ SECTION='';
+
+PART_NAME
+ J1 'CON3_282841-3_CON3':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS9141@PSU_LIB.CON3.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins9141@psu_lib.\con3.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins9141@psu_lib.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(540,150,560,190)',
+ SECTION='';
+
+PART_NAME
+ J2 'CON3_282841-3_CON3':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13311@PSU_LIB.CON3.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13311@psu_lib.\con3.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13311@psu_lib.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1700,180)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1700,180,1720,220)',
+ SECTION='';
+
+PART_NAME
+ J3 'CON3_282841-4_CON3':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11602@PSU_LIB.CON3.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11602@psu_lib.\con3.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11602@psu_lib.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,330)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(900,330,920,370)',
+ SECTION='';
+
+PART_NAME
+ J4 'CON3_282841-9_CON3':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13001@PSU_LIB.CON3.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13001@psu_lib.\con3.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13001@psu_lib.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1360,510,1380,550)',
+ SECTION='';
+
+PART_NAME
+ J5 'CON3_282841-5_CON3':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11863@PSU_LIB.CON3.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11863@psu_lib.\con3.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11863@psu_lib.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(900,740,920,780)',
+ SECTION='';
+
+PART_NAME
+ J6 'CON3_282841-6_CON3':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12135@PSU_LIB.CON3.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12135@psu_lib.\con3.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12135@psu_lib.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1610,780)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1610,780,1630,820)',
+ SECTION='';
+
+PART_NAME
+ J7 'CON3_282841-8_CON3':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12702@PSU_LIB.CON3.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12702@psu_lib.\con3.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12702@psu_lib.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,1100)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1180,1100,1200,1140)',
+ SECTION='';
+
+PART_NAME
+ J8 'CON3_282841-7_CON3':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12414@PSU_LIB.CON3.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12414@psu_lib.\con3.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12414@psu_lib.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,1130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(550,1130,570,1170)',
+ SECTION='';
+
+PART_NAME
+ LS1 'TWT_AI-1622-TWT-5V-R_AI-1622-TWT-5V-R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2662@PSU_LIB.TWT.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2662@psu_lib.\twt.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2662@psu_lib.\twt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,220)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,220,730,270)',
+ SECTION='';
+
+PART_NAME
+ LS2 'RELAY SPDT_AWHSH105D00G_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS9375@PSU_LIB.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins9375@psu_lib.\relay spdt.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins9375@psu_lib.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(420,150,440,210)',
+ SECTION='';
+
+PART_NAME
+ LS3 'RELAY SPDT_AWHSH105D00G_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13289@PSU_LIB.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13289@psu_lib.\relay spdt.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13289@psu_lib.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1580,180)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1580,180,1600,240)',
+ SECTION='';
+
+PART_NAME
+ LS4 'RELAY SPDT_AWHSH105D00G_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11580@PSU_LIB.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11580@psu_lib.\relay spdt.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11580@psu_lib.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,330)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,330,800,390)',
+ SECTION='';
+
+PART_NAME
+ LS5 'RELAY SPDT_AWHSH105D00G_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12979@PSU_LIB.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12979@psu_lib.\relay spdt.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12979@psu_lib.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1240,510,1260,570)',
+ SECTION='';
+
+PART_NAME
+ LS6 'RELAY SPDT_AWHSH105D00G_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11841@PSU_LIB.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11841@psu_lib.\relay spdt.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11841@psu_lib.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,740,800,800)',
+ SECTION='';
+
+PART_NAME
+ LS7 'RELAY SPDT_AWHSH105D00G_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12113@PSU_LIB.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12113@psu_lib.\relay spdt.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12113@psu_lib.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1490,780)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1490,780,1510,840)',
+ SECTION='';
+
+PART_NAME
+ LS8 'RELAY SPDT_AWHSH105D00G_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12680@PSU_LIB.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12680@psu_lib.\relay spdt.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12680@psu_lib.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1060,1100)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1060,1100,1080,1160)',
+ SECTION='';
+
+PART_NAME
+ LS9 'RELAY SPDT_AWHSH105D00G_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12392@PSU_LIB.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12392@psu_lib.\relay spdt.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12392@psu_lib.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,1130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(430,1130,450,1190)',
+ SECTION='';
+
+PART_NAME
+ Q1 'LM7805CTNOPB_0_LM7805CT_LM7805CTNOPB':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS152@PSU_LIB.LM7805CTNOPB_0.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins152@psu_lib.\lm7805ctnopb_0.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins152@psu_lib.\lm7805ctnopb_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,300)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,300,570,340)',
+ SECTION='';
+
+PART_NAME
+ Q2 '1R1001_MPSA42_MPSA42':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS9499@PSU_LIB.1R1001.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins9499@psu_lib.\1r1001.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins9499@psu_lib.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,210)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,210,330,230)',
+ SECTION='';
+
+PART_NAME
+ Q3 '1R1001_MPSA49_MPSA49':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13381@PSU_LIB.1R1001.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13381@psu_lib.\1r1001.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13381@psu_lib.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,240)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1470,240,1490,260)',
+ SECTION='';
+
+PART_NAME
+ Q4 '1R1001_MPSA43_MPSA43':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11672@PSU_LIB.1R1001.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11672@psu_lib.\1r1001.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11672@psu_lib.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,390,690,410)',
+ SECTION='';
+
+PART_NAME
+ Q5 '1R1001_MPSA48_MPSA48':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13071@PSU_LIB.1R1001.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13071@psu_lib.\1r1001.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13071@psu_lib.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,570)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1130,570,1150,590)',
+ SECTION='';
+
+PART_NAME
+ Q6 '1R1001_MPSA44_MPSA44':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11933@PSU_LIB.1R1001.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11933@psu_lib.\1r1001.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11933@psu_lib.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,800)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,800,690,820)',
+ SECTION='';
+
+PART_NAME
+ Q7 '1R1001_MPSA45_MPSA45':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12205@PSU_LIB.1R1001.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12205@psu_lib.\1r1001.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12205@psu_lib.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1380,840)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1380,840,1400,860)',
+ SECTION='';
+
+PART_NAME
+ Q8 '1R1001_MPSA47_MPSA47':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12772@PSU_LIB.1R1001.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12772@psu_lib.\1r1001.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12772@psu_lib.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(950,1160)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(950,1160,970,1180)',
+ SECTION='';
+
+PART_NAME
+ Q9 '1R1001_MPSA46_MPSA46':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12484@PSU_LIB.1R1001.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12484@psu_lib.\1r1001.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12484@psu_lib.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,1190)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(320,1190,340,1210)',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RC0402FR-07100RL_100R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS3067@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins3067@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins3067@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,120)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(320,120,340,150)',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_RC0402FR-07100RL_100R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13101@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13101@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13101@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,610)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,610,1070,640)',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_2-2176073-10_1K':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11917@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11917@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11917@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,800)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(610,800,640,820)',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_RC0402FR-07100RL_100R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11963@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11963@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11963@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,840)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(590,840,610,870)',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_2-2176073-11_1K':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12189@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12189@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12189@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1320,840)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1320,840,1350,860)',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_RC0402FR-07100RL_100R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12235@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12235@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12235@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,880)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1300,880,1320,910)',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_2-2176073-13_1K':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12756@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12756@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12756@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,1160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,1160,920,1180)',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_2-2176073-12_1K':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12468@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12468@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12468@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,1190)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(260,1190,290,1210)',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_RC0402FR-07100RL_100R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12802@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12802@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12802@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,1200)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,1200,890,1230)',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_RC0402FR-07100RL_100R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS12514@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins12514@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins12514@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,1230)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(240,1230,260,1260)',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_CFR-25JB-52-2K2_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS212@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins212@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins212@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,340)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,340,330,370)',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_2-2176073-8_1K':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS9472@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins9472@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins9472@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,210)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(250,210,280,230)',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RC0402FR-07100RL_100R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS9456@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins9456@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins9456@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(230,250,250,280)',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_2-2176073-15_1K':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13365@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13365@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13365@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1410,240)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1410,240,1440,260)',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RC0402FR-07100RL_100R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13411@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13411@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13411@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1390,280)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1390,280,1410,310)',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_2-2176073-9_1K':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11656@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11656@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11656@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,390)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(610,390,640,410)',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_RC0402FR-07100RL_100R':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS11702@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins11702@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins11702@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,430)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(590,430,610,460)',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_2-2176073-14_1K':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS13055@PSU_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins13055@psu_lib.\resistor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins13055@psu_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,570)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1070,570,1100,590)',
+ SECTION='';
+
+PART_NAME
+ S1 'TEMP SENSOR_0_HANI-C-2P5I-M-TMP1075DGKRMA_TEMP SENSOR':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2351@PSU.TEMP SENSOR_0.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2351@psu.\temp sensor_0.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2351@psu.\temp sensor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,330)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,330,330,380)',
+ SECTION='';
+
+PART_NAME
+ S2 'GAS_SENSOR_0_605-00010_GAS SENSOR':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2376@PSU.GAS_SENSOR_0.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2376@psu.\gas_sensor_0.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2376@psu.\gas_sensor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,420,330,470)',
+ SECTION='';
+
+PART_NAME
+ S3 'HUMIDITY_SENSOR_HDC2010YPAR_HUMIDITY SENSOR':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2401@PSU_LIB.HUMIDITY_SENSOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2401@psu_lib.\humidity_sensor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2401@psu_lib.\humidity_sensor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,510,330,560)',
+ SECTION='';
+
+PART_NAME
+ S4 'ULTRA-SONIC SENSOR_3942_ULTRA SONIC SENSOR':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2426@PSU_LIB.ULTRA-SONIC SENSOR.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2426@psu_lib.\ultra-sonic sensor.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2426@psu_lib.\ultra-sonic sensor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,600,330,650)',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON-SPST-2_B3F-1000_B3F-1000':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2633@PSU_LIB.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2633@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2633@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(130,110,200,130)',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW PUSHBUTTON-SPST-2_B3F-1000_B3F-1000':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2553@PSU_LIB.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2553@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2553@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,210)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(50,210,120,230)',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW PUSHBUTTON-SPST-2_B3F-1000_B3F-1000':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2573@PSU_LIB.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2573@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2573@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,290)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(50,290,120,310)',
+ SECTION='';
+
+PART_NAME
+ SW4 'SW PUSHBUTTON-SPST-2_B3F-1000_B3F-1000':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2593@PSU_LIB.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2593@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2593@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,370)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(50,370,120,390)',
+ SECTION='';
+
+PART_NAME
+ SW5 'SW PUSHBUTTON-SPST-2_B3F-1000_B3F-1000':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS2613@PSU_LIB.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins2613@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins2613@psu_lib.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(50,450,120,470)',
+ SECTION='';
+
+PART_NAME
+ SW6 'SW_25139NAH_ON/OFF SLIDE SWITCH':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS53@PSU_LIB.SW.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins53@psu_lib.\sw.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins53@psu_lib.\sw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(50,310,100,360)',
+ SECTION='';
+
+PART_NAME
+ TB1 'TERMINAL BLOCK_CP30240_TERMINALBLOCK':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS26@PSU_LIB.TERMINAL BLOCK.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins26@psu_lib.\terminal block.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins26@psu_lib.\terminal block.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,460)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(50,460,100,510)',
+ SECTION='';
+
+PART_NAME
+ U1 'IC_ESP32-D0WD-V3_IC':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS1606@PSU_LIB.IC.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins1606@psu_lib.\ic.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page1_ins1606@psu_lib.\ic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(500,130,590,510)',
+ SECTION='';
+
+PART_NAME
+ U2 'IL1117_3.3V_IL1117-3P3_IL1117':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS82@PSU_LIB.IL1117_3.3V.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins82@psu_lib.\il1117_3.3v.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page2_ins82@psu_lib.\il1117_3.3v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,300)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(710,300,770,350)',
+ SECTION='';
+
+PART_NAME
+ U3 'CONTROLLER_ULN2803A_ULN2803A':;
+
+SECTION_NUMBER 1
+ '@PSU.SCHEMATIC1(SCH_1):INS8945@PSU_LIB.CONTROLLER.NORMAL(CHIPS)':
+ C_PATH='@psu.schematic1(sch_1):ins8945@psu_lib.\controller.normal\(chips)',
+ P_PATH='@psu.schematic1(sch_1):page3_ins8945@psu_lib.\controller.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,640)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,640,240,820)',
+ SECTION='';
+
+END.
